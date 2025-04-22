@@ -180,7 +180,7 @@ function localStorageFuncoes() {
   // SET: salvar uma informação
   localStorage.setItem("nome", "Ariel");
 
-  // GET: recuperar a informação
+  // GET: recuperar a informaçãoa
   console.log("LocalStorage GET:", localStorage.getItem("nome"));
 
   // UPDATE: atualizar é igual ao setItem, sobrescreve o valor
